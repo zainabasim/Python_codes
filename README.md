@@ -1,2 +1,2 @@
 # Python_codes
-beginnerscoding
+ beginners_coding
